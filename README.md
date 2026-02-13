@@ -79,3 +79,6 @@ This project also helped me practice important programming concepts such as:
 
 Overall, this program is a useful tool and a good beginner project for learning C++, especially for me as an ICS3U student, because this code forced me to use almost all of the topics I learned in Grade 11
 
+## Setup
+To set up the program, make sure all project files are installed/downloaded in the same folder.  
+To run the program, open the terminal in that folder and type: make
